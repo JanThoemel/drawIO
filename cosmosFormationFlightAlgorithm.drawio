@@ -1,17 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T12:47:54.104Z" agent="5.0 (Windows)" etag="38BBIMF2uQvGEkD75SYP" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T14:39:05.890Z" agent="5.0 (Windows)" etag="G4k6bpIMt3YrtsrjJuGZ" version="20.7.4" type="github">
   <diagram id="Xfj5n7e3JJY6A1mSw3fe" name="Page-1">
-    <mxGraphModel dx="2209" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2485" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-1" value="&lt;font face=&quot;greekC&quot;&gt;S&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-9" value="actual position&lt;br&gt;1Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DxF82iQ1Xe6bMLV_p6Q5-5" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-9" value="actual relative position&lt;br&gt;1Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="y4cqsh2HeKVNznNm2pZd-14" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1">
+          <mxGeometry x="-0.1875" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-5" value="formation position determination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-5" value="sat absolute position determination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-11" value="cosmosFlight control algorithm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
@@ -22,7 +24,7 @@
             <mxPoint x="260" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-14" value="satellite attitude control system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-14" value="sat attitude control system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-16" value="Euler angles" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y4cqsh2HeKVNznNm2pZd-3" target="DxF82iQ1Xe6bMLV_p6Q5-14" edge="1">
@@ -32,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-18" value="specified position @ tn, 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1" source="y4cqsh2HeKVNznNm2pZd-10">
+        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-18" value="specified position @ tn, 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1" source="y4cqsh2HeKVNznNm2pZd-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="420" as="sourcePoint" />
             <mxPoint y="290" as="targetPoint" />
@@ -75,21 +77,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-10" value="HCW analytical solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-11" value="HCW parameters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y4cqsh2HeKVNznNm2pZd-12" value="actual position&lt;br&gt;1Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4cqsh2HeKVNznNm2pZd-11" target="y4cqsh2HeKVNznNm2pZd-10">
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4cqsh2HeKVNznNm2pZd-11" target="y4cqsh2HeKVNznNm2pZd-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="570" as="sourcePoint" />
-            <mxPoint x="260" y="470" as="targetPoint" />
+            <mxPoint x="450" y="580" as="sourcePoint" />
+            <mxPoint x="180" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y4cqsh2HeKVNznNm2pZd-13" value="time , 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y4cqsh2HeKVNznNm2pZd-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-260" y="420" as="sourcePoint" />
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-13" value="orbit time , 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y4cqsh2HeKVNznNm2pZd-10">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <mxPoint x="-340" y="290" as="sourcePoint" />
             <mxPoint x="270" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-14" value="sat-sat relative position determination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-16" value="specified sat-sat relative position" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4cqsh2HeKVNznNm2pZd-10" target="y4cqsh2HeKVNznNm2pZd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="260" as="sourcePoint" />
+            <mxPoint x="-40" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-20" value="actual position&lt;br&gt;1Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="DxF82iQ1Xe6bMLV_p6Q5-5" target="y4cqsh2HeKVNznNm2pZd-14">
+          <mxGeometry x="-0.1875" relative="1" as="geometry">
+            <mxPoint x="480" y="570" as="sourcePoint" />
+            <mxPoint x="260" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-21" value="absolute position of other formation member sats" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" target="y4cqsh2HeKVNznNm2pZd-14">
+          <mxGeometry x="0.4" y="-10" relative="1" as="geometry">
+            <mxPoint x="530" y="740" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
