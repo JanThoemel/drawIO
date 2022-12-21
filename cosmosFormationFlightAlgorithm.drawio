@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T12:05:57.795Z" agent="5.0 (Windows)" etag="f0HYjvGJUmB_3NmDJmlE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T12:47:54.104Z" agent="5.0 (Windows)" etag="38BBIMF2uQvGEkD75SYP" version="20.7.4" type="github">
   <diagram id="Xfj5n7e3JJY6A1mSw3fe" name="Page-1">
-    <mxGraphModel dx="1143" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2209" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-18" value="specified position @ tn, 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1">
+        <mxCell id="DxF82iQ1Xe6bMLV_p6Q5-18" value="specified position @ tn, 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DxF82iQ1Xe6bMLV_p6Q5-1" edge="1" source="y4cqsh2HeKVNznNm2pZd-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="420" as="sourcePoint" />
             <mxPoint y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y4cqsh2HeKVNznNm2pZd-1" value="satellite dynamics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-1" value="satellite dynamics (HCW equations)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;" edge="1" parent="1" source="y4cqsh2HeKVNznNm2pZd-7" target="y4cqsh2HeKVNznNm2pZd-1">
@@ -72,6 +72,24 @@
             <mxPoint x="910" y="410" as="sourcePoint" />
             <mxPoint x="910" y="450" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-10" value="HCW analytical solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-11" value="HCW parameters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-12" value="actual position&lt;br&gt;1Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4cqsh2HeKVNznNm2pZd-11" target="y4cqsh2HeKVNznNm2pZd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="570" as="sourcePoint" />
+            <mxPoint x="260" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-13" value="time , 10 Hz" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y4cqsh2HeKVNznNm2pZd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="420" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
