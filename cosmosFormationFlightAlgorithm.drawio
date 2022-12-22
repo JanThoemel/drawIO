@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T13:44:05.945Z" agent="5.0 (Windows)" etag="_SgbkjaXVOxT0k14dvs6" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T13:47:14.052Z" agent="5.0 (Windows)" etag="HrTs0GHJe1AprwrrqPau" version="20.7.4" type="github">
   <diagram id="Xfj5n7e3JJY6A1mSw3fe" name="Page-1">
-    <mxGraphModel dx="3590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-1" value="satellite dynamics (HCW equations)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y4cqsh2HeKVNznNm2pZd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;" parent="1" target="y4cqsh2HeKVNznNm2pZd-1" edge="1">
+        <mxCell id="y4cqsh2HeKVNznNm2pZd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;" parent="1" source="y4cqsh2HeKVNznNm2pZd-7" target="y4cqsh2HeKVNznNm2pZd-1" edge="1">
           <mxGeometry x="0.4287" relative="1" as="geometry">
             <mxPoint x="900" y="459.9999999999998" as="sourcePoint" />
             <mxPoint x="710" y="440" as="targetPoint" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-7" value="solar-aerodynamic forces" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;" parent="1" source="DxF82iQ1Xe6bMLV_p6Q5-14" target="y4cqsh2HeKVNznNm2pZd-7" edge="1">
           <mxGeometry x="0.4287" relative="1" as="geometry">
@@ -82,10 +82,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-10" value="HCW analytical solution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-11" value="HCW parameters" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4cqsh2HeKVNznNm2pZd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y4cqsh2HeKVNznNm2pZd-11" target="y4cqsh2HeKVNznNm2pZd-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -143,7 +143,7 @@
             <Array as="points">
               <mxPoint x="700" y="660" />
               <mxPoint x="-160" y="660" />
-              <mxPoint x="-160" y="290" />
+              <mxPoint x="-160" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0956imqwXbQfuDrspQU-1" value="consolidated payload operations CONOPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;exitX=-0.006;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h0956imqwXbQfuDrspQU-2" target="DxF82iQ1Xe6bMLV_p6Q5-11">
-          <mxGeometry x="0.7289" y="-10" relative="1" as="geometry">
+          <mxGeometry x="-0.4109" y="-42" relative="1" as="geometry">
             <mxPoint x="480" y="405" as="sourcePoint" />
             <mxPoint x="380" y="535" as="targetPoint" />
             <mxPoint as="offset" />
