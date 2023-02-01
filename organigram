@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:42:39.380Z" agent="5.0 (Windows)" etag="zZrUuoKrVmhp0bHqZ1Uj" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T09:20:09.935Z" agent="5.0 (Windows)" etag="O8bKdxU4sHr0ZVb04Mon" version="20.8.14" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="899" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,20 +36,107 @@
             <mxGeometry x="480" y="176" width="214" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="MokMzho3QPx0Ra0SKcfb-2" value="study coordination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="446" width="120" height="60" as="geometry" />
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-3" value="satellite/system/mission engineering" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="417" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MokMzho3QPx0Ra0SKcfb-3" value="satellite/system/mission engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="598" width="120" height="60" as="geometry" />
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-4" value="terrestrial/aerial/in-orbit demonstration incl. ground truth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="417" y="764" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MokMzho3QPx0Ra0SKcfb-4" value="terrestrial/aerial/in-orbit demonstration incl. ground truth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="596" width="120" height="60" as="geometry" />
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-6" value="sat-sat synchronisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="244" y="636" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MokMzho3QPx0Ra0SKcfb-6" value="synchronisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="419" y="596" width="120" height="60" as="geometry" />
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-7" value="solar-aerodynamic formation flight" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="584" y="636" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MokMzho3QPx0Ra0SKcfb-7" value="formation flight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="596" width="120" height="60" as="geometry" />
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-8" value="beamforming&lt;br&gt;GNSS-R" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="417" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-12" value="study coordination" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="417" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-12" target="MokMzho3QPx0Ra0SKcfb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="452" as="sourcePoint" />
+            <mxPoint x="784" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-3" target="MokMzho3QPx0Ra0SKcfb-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496" y="478" as="sourcePoint" />
+            <mxPoint x="591" y="509" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-3" target="MokMzho3QPx0Ra0SKcfb-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="569" as="sourcePoint" />
+            <mxPoint x="314" y="607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="417" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-3" target="MokMzho3QPx0Ra0SKcfb-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="569" as="sourcePoint" />
+            <mxPoint x="487" y="607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="507" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-7" target="MokMzho3QPx0Ra0SKcfb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487.00000000000045" y="578" as="sourcePoint" />
+            <mxPoint x="476" y="765" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-8" target="MokMzho3QPx0Ra0SKcfb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="706" as="sourcePoint" />
+            <mxPoint x="477" y="765" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="487" y="728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MokMzho3QPx0Ra0SKcfb-6" target="MokMzho3QPx0Ra0SKcfb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="706" as="sourcePoint" />
+            <mxPoint x="477" y="766" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="367" y="731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="202" y="862" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="202" y="903" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="495" y="862" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="495" y="903" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-32" value="antenna lab at UCL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="857" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-33" value="geophysics lab at uni.lu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="898" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-34" value="remote sensing lab at UCL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562" y="857" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-35" value="CubeSatLab at uni.lu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562" y="898" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
