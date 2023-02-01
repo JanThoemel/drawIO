@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T13:31:37.363Z" agent="5.0 (Windows)" etag="S3kyAhXKfwv6Gr00ww-R" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:42:39.380Z" agent="5.0 (Windows)" etag="zZrUuoKrVmhp0bHqZ1Uj" version="20.8.14" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1143" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="736" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Ks71HTz95DMgkc0ngP1o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="Ks71HTz95DMgkc0ngP1o-1">
+        <mxCell id="Ks71HTz95DMgkc0ngP1o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="Ks71HTz95DMgkc0ngP1o-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Jan Thoemel&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;uni.lu/SnT&lt;br&gt;Head of CubeSatLab&lt;br&gt;Mission, Satellite&amp;amp;System Engineering&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+        <UserObject label="Jan Thoemel&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;st&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="207" y="51" width="296" height="66" as="geometry" />
           </mxCell>
@@ -32,10 +32,25 @@
           </mxCell>
         </UserObject>
         <UserObject label="Jan Thoemel&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;uni.lu&lt;br&gt;Head Of CubeSatLab&lt;br&gt;Formation Flight&lt;br&gt;&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="Ks71HTz95DMgkc0ngP1o-1">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="480" y="176" width="214" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-2" value="study coordination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-3" value="satellite/system/mission engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="598" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-4" value="terrestrial/aerial/in-orbit demonstration incl. ground truth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-6" value="synchronisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MokMzho3QPx0Ra0SKcfb-7" value="formation flight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
