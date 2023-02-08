@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T14:55:26.075Z" agent="5.0 (Windows)" etag="rwZbamG6Bqz6y5cVboMh" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T14:56:10.442Z" agent="5.0 (Windows)" etag="_JI0dPao_0EEIjHDHwkw" version="20.8.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1658" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,12 @@
         </mxCell>
         <mxCell id="KB5Pzth2lL6RKEBmr8RL-3" value="trade-offs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="1041" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KB5Pzth2lL6RKEBmr8RL-4" value="definition of mission, system, subsystem requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KB5Pzth2lL6RKEBmr8RL-5" value="design analyses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="1033" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
