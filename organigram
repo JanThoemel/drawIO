@@ -1,41 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T13:21:55.701Z" agent="5.0 (Windows)" etag="LdQN3se3ERVVhjuFm4B-" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T13:22:49.677Z" agent="5.0 (Windows)" etag="YbDhHRg1a3e55UCD7Mci" version="20.8.19" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2642" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4215" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="736" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="Ks71HTz95DMgkc0ngP1o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="Ks71HTz95DMgkc0ngP1o-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Jan Thoemel&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;st&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="207" y="51" width="296" height="66" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Christophe Craye&lt;br&gt;&lt;i&gt;UCLouvain&lt;br&gt;Professor Antenna&lt;br&gt;Synchronization&lt;br&gt;&lt;/i&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="20" y="176" width="210" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Sajad Tabibi&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;uni.lu/GPL&lt;br&gt;Head of GeoLab&lt;br&gt;Beamforming GNSSR&lt;br&gt;&lt;/i&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="244" y="176" width="222" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Jan Thoemel&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;uni.lu&lt;br&gt;Head Of CubeSatLab&lt;br&gt;Formation Flight&lt;br&gt;&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="Ks71HTz95DMgkc0ngP1o-1">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="480" y="176" width="214" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="MokMzho3QPx0Ra0SKcfb-3" value="&lt;div align=&quot;center&quot;&gt;satellite/swarm/system/mission engineering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="539.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -306,61 +274,6 @@
         <mxCell id="PgCelF_unI64csRylloX-30" value="this study logic" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="-290" y="449" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-32" target="PgCelF_unI64csRylloX-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-32" value="first iteration design based on scientific mission objectives main mission and system requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="-819" y="1006" width="152" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PgCelF_unI64csRylloX-35" target="PgCelF_unI64csRylloX-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-35" target="PgCelF_unI64csRylloX-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-35" value="trade-offs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" parent="1" vertex="1">
-          <mxGeometry x="-653" y="1147" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-37" target="PgCelF_unI64csRylloX-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-37" value="definition of mission, system, subsystem requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
-          <mxGeometry x="-803" y="1147" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PgCelF_unI64csRylloX-39" target="PgCelF_unI64csRylloX-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-39" value="design analyses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF33;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="1147" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="PgCelF_unI64csRylloX-41" target="PgCelF_unI64csRylloX-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-41" value="assessment of technical feasibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;" parent="1" vertex="1">
-          <mxGeometry x="-347" y="1147" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-45" target="PgCelF_unI64csRylloX-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-126" y="1246" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-45" target="PgCelF_unI64csRylloX-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-126" y="1103" />
-              <mxPoint x="-593" y="1103" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-45" target="PgCelF_unI64csRylloX-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-45" value="detailed programmatic planning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;" parent="1" vertex="1">
-          <mxGeometry x="-186" y="1147" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-46" value="conceptional design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="-202" y="1249" width="152" height="76" as="geometry" />
-        </mxCell>
         <mxCell id="PgCelF_unI64csRylloX-50" value="Ground truth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;gradientDirection=west;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="588" y="636" width="120" height="60" as="geometry" />
         </mxCell>
@@ -384,9 +297,6 @@
         </mxCell>
         <mxCell id="PgCelF_unI64csRylloX-71" value="4-sat IOD mission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1053" y="1339" width="152" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-72" value="critical design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1518" y="2024" width="152" height="76" as="geometry" />
         </mxCell>
         <mxCell id="PgCelF_unI64csRylloX-73" value="synchronisation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1478" y="1140.5" width="121" height="42" as="geometry" />
@@ -463,51 +373,6 @@
             <Array as="points">
               <mxPoint x="1129" y="1263" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-85" value="synchronisation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1854" width="121" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-86" value="formation flight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1907" width="121" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-87" value="beamforming GNSS-R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1960" width="121" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-88" value="mission/swarm/system study" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1792" width="121" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-85" target="PgCelF_unI64csRylloX-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="1785" as="targetPoint" />
-            <mxPoint x="1019" y="1728" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-86" target="PgCelF_unI64csRylloX-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1528" y="1927" as="targetPoint" />
-            <mxPoint x="1281" y="1785" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-87" target="PgCelF_unI64csRylloX-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1528" y="1927" as="targetPoint" />
-            <mxPoint x="1281" y="1838" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PgCelF_unI64csRylloX-88" target="PgCelF_unI64csRylloX-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1528" y="1927" as="targetPoint" />
-            <mxPoint x="1281" y="1891" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-97" value="terrestrial/aerial/OPSSAT/IOD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="2020" width="121" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PgCelF_unI64csRylloX-97" target="PgCelF_unI64csRylloX-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="2051" as="targetPoint" />
-            <mxPoint x="1019" y="1728" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nkbamhG_3HgU9uyqxzh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="PgCelF_unI64csRylloX-73" target="3nkbamhG_3HgU9uyqxzh-5">
