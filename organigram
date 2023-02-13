@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T09:46:48.083Z" agent="5.0 (Windows)" etag="QBbFtgO5D3jfe8G7J8E-" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T14:09:04.844Z" agent="5.0 (Windows)" etag="FSu2C3svT7keYAdNm6lr" version="20.8.20" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2384" dy="248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="42" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,7 +274,7 @@
         <mxCell id="PgCelF_unI64csRylloX-30" value="this study logic" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="-290" y="449" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PgCelF_unI64csRylloX-50" value="Ground truth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=west;" parent="1" vertex="1">
+        <mxCell id="PgCelF_unI64csRylloX-50" value="ground truth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="588" y="636" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgCelF_unI64csRylloX-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MokMzho3QPx0Ra0SKcfb-3" target="PgCelF_unI64csRylloX-50" edge="1">
