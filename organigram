@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:25:43.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="5kQ9fdWvBdHcVEspljd-" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:32:30.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="5g6r6eX1Aj6zqsepl7F0" version="21.2.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2270" dy="185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5345" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,7 +973,7 @@
           <mxGeometry x="3687" y="1289.25" width="45.5" height="142.75" as="geometry" />
         </mxCell>
         <mxCell id="cJWEBCtxbtaClKU25c_L-83" value="Function Directorates&lt;br&gt;&amp;nbsp;(human) resource owner" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=west;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3375" y="1368" width="220" height="35" as="geometry" />
+          <mxGeometry x="3381" y="1368" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cJWEBCtxbtaClKU25c_L-84" value="Product Directorates&lt;br&gt;(Project owner)" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="3644" y="1164" width="392" height="35" as="geometry" />
