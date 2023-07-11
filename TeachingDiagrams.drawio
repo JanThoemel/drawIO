@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T07:58:58.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.1" etag="AnUgaahZLxYkyfMJ62am" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T08:23:48.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nD01S9IQIBMnAD0gBhwt" version="21.6.1" type="github">
   <diagram name="Page-1" id="ATRq2LAwiy_IREtI_l5b">
-    <mxGraphModel>
+    <mxGraphModel dx="1143" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O7q4R_RF0-p1peHL-_la-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-1" target="O7q4R_RF0-p1peHL-_la-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-1" value="Project Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-2" target="O7q4R_RF0-p1peHL-_la-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-2" target="O7q4R_RF0-p1peHL-_la-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-2" target="O7q4R_RF0-p1peHL-_la-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-2" target="O7q4R_RF0-p1peHL-_la-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-2" target="O7q4R_RF0-p1peHL-_la-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-2" value="System Engineer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-3" value="Subsystem Engineer&lt;br&gt;ADCS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-5" value="Subsystem Engineer&lt;br&gt;COM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-6" value="Subsystem Engineer&lt;br&gt;CDH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-7" value="Subsystem EngineerP/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-8" value="Subsystem Engineer POW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7q4R_RF0-p1peHL-_la-14" target="O7q4R_RF0-p1peHL-_la-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7q4R_RF0-p1peHL-_la-14" value="Principle Investigator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
