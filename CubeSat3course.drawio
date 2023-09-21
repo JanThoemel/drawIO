@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:09:51.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.8.0" etag="lUwvRLJadQ4lbKn08r3A" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T13:14:40.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="bmeQ6bOKCg9GrwUxnjPW" version="21.8.0" type="github">
   <diagram name="Page-1" id="yRBEoZEIaJXc-SFdDZwQ">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-1" value="PC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="305" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d-oTH7RnjHoXbVe-xXi-2" target="7d-oTH7RnjHoXbVe-xXi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="240" />
+              <mxPoint x="320" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-6" value="control&lt;br&gt;(wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d-oTH7RnjHoXbVe-xXi-4">
+          <mxGeometry x="0.0234" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-2" value="Simulink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7d-oTH7RnjHoXbVe-xXi-3" target="7d-oTH7RnjHoXbVe-xXi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-7" value="telemetry&lt;br&gt;(wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d-oTH7RnjHoXbVe-xXi-5">
+          <mxGeometry x="-0.1823" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-3" value="EduSat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="210" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
