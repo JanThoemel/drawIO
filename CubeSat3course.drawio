@@ -1,38 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:18:26.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="EaMd1A7QSZImvpl7joQf" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T19:47:23.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="zT_i1nYO8UQzKF3IywiS" version="21.8.2" type="github">
   <diagram name="Page-1" id="yRBEoZEIaJXc-SFdDZwQ">
-    <mxGraphModel dx="790" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-1" value="PC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="305" height="110" as="geometry" />
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-7" value="Experimental Facility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="254" y="369" width="377" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d-oTH7RnjHoXbVe-xXi-2" target="7d-oTH7RnjHoXbVe-xXi-3">
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-1" value="PC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="290" y="141" width="305" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7d-oTH7RnjHoXbVe-xXi-2" target="RCtUS8mygwCiBOvo4ZeA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-2" value="Simulink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="174" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-3" value="EduSat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="381" width="210" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RCtUS8mygwCiBOvo4ZeA-3" target="RCtUS8mygwCiBOvo4ZeA-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="240" />
-              <mxPoint x="320" y="425" />
+              <mxPoint x="577" y="408" />
+              <mxPoint x="577" y="277" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-6" value="control&lt;br&gt;(wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d-oTH7RnjHoXbVe-xXi-4">
-          <mxGeometry x="0.0234" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-7" value="telemetry&lt;br&gt;(udp, wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7d-oTH7RnjHoXbVe-xXi-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.1823" relative="1" as="geometry">
+            <mxPoint x="-2" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-2" value="Simulink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-1" value="Packet Sender" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="262" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7d-oTH7RnjHoXbVe-xXi-3" target="7d-oTH7RnjHoXbVe-xXi-2">
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RCtUS8mygwCiBOvo4ZeA-3" target="RCtUS8mygwCiBOvo4ZeA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-7" value="telemetry&lt;br&gt;(wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d-oTH7RnjHoXbVe-xXi-5">
-          <mxGeometry x="-0.1823" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-3" value="HelTec wifi card" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="393" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RCtUS8mygwCiBOvo4ZeA-1" target="RCtUS8mygwCiBOvo4ZeA-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="316" y="277" />
+              <mxPoint x="316" y="410" />
+            </Array>
+            <mxPoint x="337.5" y="281" as="sourcePoint" />
+            <mxPoint x="379.5" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7d-oTH7RnjHoXbVe-xXi-3" value="EduSat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="210" height="90" as="geometry" />
+        <mxCell id="7d-oTH7RnjHoXbVe-xXi-6" value="control&lt;br&gt;(udp, wifi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7d-oTH7RnjHoXbVe-xXi-4" vertex="1" connectable="0">
+          <mxGeometry x="0.0234" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RCtUS8mygwCiBOvo4ZeA-4" value="Satellite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="445" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
