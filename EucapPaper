@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:18:53.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="qU-qXD6mhfUpyPCceabA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T13:02:27.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="xlQQUXUqLfc2vsPTfOSV" version="22.0.4" type="github">
   <diagram name="Page-1" id="maHngR0nztpypsDNygjs">
     <mxGraphModel dx="1726" dy="1126" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="7oT615SZtNpduc11wPws-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="427.9959047254216" y="298.9985683995727" width="559.0040952745784" height="461.9528632008546" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9380732523341831;endAngle=0.4326280007657872;rotation=-55;fillColor=default;gradientColor=none;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
+        <mxCell id="7oT615SZtNpduc11wPws-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9380732523341831;endAngle=0.4326280007657872;rotation=-55;fillColor=default;gradientColor=none;dashed=1;strokeColor=#ff0000;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
           <mxGeometry x="174.13409527457839" y="-32.38856839957273" width="195.12" height="526.73" as="geometry" />
         </mxCell>
         <mxCell id="7oT615SZtNpduc11wPws-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.339;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7oT615SZtNpduc11wPws-11" source="7oT615SZtNpduc11wPws-8">
@@ -283,7 +283,7 @@
         <mxCell id="nTd_di7KRDLxWNUAodZr-17" value="GNSS-reflection receiver satellites (Low Earth Orbit/LEO, ~500 km altitude)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" parent="7oT615SZtNpduc11wPws-11" vertex="1">
           <mxGeometry x="97.00409527457839" y="19.00143160042728" width="462" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-14" value="relative orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
+        <mxCell id="7oT615SZtNpduc11wPws-14" value="relative orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#ff0000;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
           <mxGeometry x="337.0040952745784" y="138.00143160042728" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7oT615SZtNpduc11wPws-13" value="absolute orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
