@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T21:56:28.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="fVSh4ctnWcsL0X9hL5tH" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T22:02:56.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="8Iq8wV6LIFebCn2-O6nF" version="22.1.0" type="github">
   <diagram name="Page-1" id="WJJjMyrS5IeVUg8-BT6o">
     <mxGraphModel dx="1543" dy="1118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0B4G2qCSHC9pTeujUz-p-3" value="mission implementation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="757.38" y="-297" width="314.75" height="106" as="geometry" />
+        <mxCell id="0B4G2qCSHC9pTeujUz-p-4" value="mission implementation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-300" width="314.75" height="106" as="geometry" />
         </mxCell>
         <mxCell id="0B4G2qCSHC9pTeujUz-p-2" value="technical concept development" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="439.25" y="-300" width="314.75" height="106" as="geometry" />
