@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T11:58:05.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="eU2cS1Xd-r_QBiv8gR0L" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:56:29.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="dT40ZbpM_W_PLci6P8nW" version="22.1.3" type="github">
   <diagram name="Page-1" id="WJJjMyrS5IeVUg8-BT6o">
-    <mxGraphModel dx="2020" dy="1900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="1429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
           <mxGeometry x="1226" y="1082.98" width="93" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Y06ugywuq_xXPPB87MsV-44" value="2. Bill of Material" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=32;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1256" y="-313" width="140" height="106" as="geometry" />
+          <mxGeometry x="1070.71" y="-570" width="140" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Y06ugywuq_xXPPB87MsV-45" value="Spreadsheet" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Y06ugywuq_xXPPB87MsV-44" vertex="1">
           <mxGeometry y="32" width="140" height="20" as="geometry" />
@@ -828,13 +828,13 @@
         <mxCell id="Y06ugywuq_xXPPB87MsV-102" value="-" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Y06ugywuq_xXPPB87MsV-99" vertex="1">
           <mxGeometry y="60" width="140" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Y06ugywuq_xXPPB87MsV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HpHOxz3LKzkuvNyiIIWH-35" target="Y06ugywuq_xXPPB87MsV-44" edge="1">
+        <mxCell id="Y06ugywuq_xXPPB87MsV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HpHOxz3LKzkuvNyiIIWH-35" target="HpHOxz3LKzkuvNyiIIWH-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1448" y="-310.72" as="sourcePoint" />
             <mxPoint x="1281.7200000000003" y="-219.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1423" y="-332" />
-              <mxPoint x="1326" y="-332" />
+              <mxPoint x="1320" y="-332" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1433,8 +1433,8 @@
         <mxCell id="HpHOxz3LKzkuvNyiIIWH-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;1. Electrical Model&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;* Eagle&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ electrical design&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ reference model&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1423" y="-501" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HpHOxz3LKzkuvNyiIIWH-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;1. Electrical Model&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;* Eagle&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ electrical design&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ reference model&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="-194" width="160" height="90" as="geometry" />
+        <mxCell id="HpHOxz3LKzkuvNyiIIWH-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;2. Bill of Material&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;* spreadsheet&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ product tree&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ purchase&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1239.5" y="-300" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
