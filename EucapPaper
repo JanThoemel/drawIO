@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T11:25:01.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4M7bHSMrfCMbY_xQp3EY" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T11:25:18.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ll5T58GuGzdL7mOS5M-M" version="22.1.7" type="github">
   <diagram name="Page-1" id="maHngR0nztpypsDNygjs">
     <mxGraphModel dx="1633" dy="1110" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="nTd_di7KRDLxWNUAodZr-16" value="GNSS transmitter satellite (Mid Earth Orbit/MEO, ~20,000 km altitude)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="242" y="200" width="653" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nTd_di7KRDLxWNUAodZr-22" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;glistening zone&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;beamforming specular zone&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=right;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="nTd_di7KRDLxWNUAodZr-22" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;glistening zone&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;beamforming specular point&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=right;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="61" y="645" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTd_di7KRDLxWNUAodZr-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;startArrow=oval;startFill=1;exitX=0.841;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFXC5vZ2emrclmXigWuV-39" edge="1">
