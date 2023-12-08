@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T14:33:44.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_bmXNuibzNSFOruBRXrN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T11:25:01.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4M7bHSMrfCMbY_xQp3EY" version="22.1.7" type="github">
   <diagram name="Page-1" id="maHngR0nztpypsDNygjs">
-    <mxGraphModel dx="1675" dy="1098" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1633" dy="1110" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7oT615SZtNpduc11wPws-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.930607667760511;endAngle=0.1428576326356385;rotation=10;fillColor=default;gradientColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.930607667760511;endAngle=0.1428576326356385;rotation=10;fillColor=default;gradientColor=none;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-60" y="516" width="1134" height="779" as="geometry" />
         </mxCell>
         <mxCell id="ZFXC5vZ2emrclmXigWuV-30" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -187,16 +187,7 @@
         <mxCell id="nTd_di7KRDLxWNUAodZr-16" value="GNSS transmitter satellite (Mid Earth Orbit/MEO, ~20,000 km altitude)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="242" y="200" width="653" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nTd_di7KRDLxWNUAodZr-18" value="specular point" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="63" y="570" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nTd_di7KRDLxWNUAodZr-21" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;startArrow=oval;startFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347" y="755" as="sourcePoint" />
-            <mxPoint x="218" y="602" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nTd_di7KRDLxWNUAodZr-22" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;glistening zone&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;beamforming glistening zone&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=right;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="nTd_di7KRDLxWNUAodZr-22" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;glistening zone&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;beamforming specular zone&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=right;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="61" y="645" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTd_di7KRDLxWNUAodZr-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;startArrow=oval;startFill=1;exitX=0.841;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFXC5vZ2emrclmXigWuV-39" edge="1">
@@ -256,25 +247,25 @@
             <mxPoint x="346" y="753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-1" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=35;" vertex="1" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-1" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=35;" parent="1" vertex="1">
           <mxGeometry x="1185" y="529" width="655" height="231.35" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.930607667760511;endAngle=0.1428576326356385;rotation=10;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.930607667760511;endAngle=0.1428576326356385;rotation=10;fillColor=default;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1167" y="348" width="1134" height="779" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#ff0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="516" as="sourcePoint" />
             <mxPoint x="329" y="517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="427.9959047254216" y="298.9985683995727" width="559.0040952745784" height="461.9528632008546" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9380732523341831;endAngle=0.4326280007657872;rotation=-55;fillColor=default;gradientColor=none;dashed=1;strokeColor=#ff0000;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
+        <mxCell id="7oT615SZtNpduc11wPws-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9380732523341831;endAngle=0.4326280007657872;rotation=-55;fillColor=default;gradientColor=none;dashed=1;strokeColor=#ff0000;" parent="7oT615SZtNpduc11wPws-11" vertex="1">
           <mxGeometry x="174.13409527457839" y="-32.38856839957273" width="195.12" height="526.73" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.339;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#ff0000;" edge="1" parent="7oT615SZtNpduc11wPws-11" source="7oT615SZtNpduc11wPws-8">
+        <mxCell id="7oT615SZtNpduc11wPws-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.339;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#ff0000;" parent="7oT615SZtNpduc11wPws-11" source="7oT615SZtNpduc11wPws-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="25.134095274578385" y="14.611431600427267" as="sourcePoint" />
             <mxPoint x="52.12979281338363" y="127.0741593651529" as="targetPoint" />
@@ -283,10 +274,10 @@
         <mxCell id="nTd_di7KRDLxWNUAodZr-17" value="GNSS-reflection receiver satellites (Low Earth Orbit/LEO, ~500 km altitude)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;" parent="7oT615SZtNpduc11wPws-11" vertex="1">
           <mxGeometry x="97.00409527457839" y="19.00143160042728" width="462" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-14" value="relative orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#ff0000;" vertex="1" parent="7oT615SZtNpduc11wPws-11">
+        <mxCell id="7oT615SZtNpduc11wPws-14" value="relative orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#ff0000;" parent="7oT615SZtNpduc11wPws-11" vertex="1">
           <mxGeometry x="389.0040952745784" y="192.00143160042728" width="196" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oT615SZtNpduc11wPws-13" value="absolute orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="7oT615SZtNpduc11wPws-13" value="absolute orbital movement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="267" y="455" width="196" height="60" as="geometry" />
         </mxCell>
       </root>
