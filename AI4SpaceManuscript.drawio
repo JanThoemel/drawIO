@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T16:47:59.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="VKBLJ9dKr8vN0g8vSYQg" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T20:39:22.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="QJb9vMQV87Wm6E70N53X" version="22.1.17" type="github">
   <diagram name="Page-1" id="WJJjMyrS5IeVUg8-BT6o">
     <mxGraphModel dx="2059" dy="1743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -751,7 +751,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1783" y="-267" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1583" y="-328" />
+              <mxPoint x="1583" y="-274" />
+              <mxPoint x="1870" y="-274" />
+              <mxPoint x="1870" y="-328" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1256,8 +1258,8 @@
         <mxCell id="HpHOxz3LKzkuvNyiIIWH-37" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;4. CAD Model&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;* STEP&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;+ imaging simulation&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1286" y="-165.5" width="160" height="109.5" as="geometry" />
         </mxCell>
-        <mxCell id="HpHOxz3LKzkuvNyiIIWH-38" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;3. CONOPS Plan&amp;amp;Tracking&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;* graphics/tabular&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;+ use procedure&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1616" y="-451" width="160" height="111" as="geometry" />
+        <mxCell id="HpHOxz3LKzkuvNyiIIWH-38" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;3. CONOPS Plan&amp;amp;Tracking&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;* graphics/tabular/spreadsheet&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;+ use procedure&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;+ operations procedure execution tracking&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1616" y="-457" width="160" height="158" as="geometry" />
         </mxCell>
         <mxCell id="HpHOxz3LKzkuvNyiIIWH-39" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Requirements&lt;br style=&quot;font-size: 14px;&quot;&gt;from AI4S onto SK&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;* spreadsheet&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 14px;&quot;&gt;+ definition of needs&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1919" y="-410.5" width="160" height="110.5" as="geometry" />
