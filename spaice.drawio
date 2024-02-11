@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T15:53:57.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.2" etag="v2954eI6lmnd_1s9hMQa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T15:55:49.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="bX7OWTSf_20Az5ni50HB" version="23.1.2" type="github">
   <diagram name="Page-1" id="akqyKi0w9UuJNH26rZH2">
-    <mxGraphModel>
+    <mxGraphModel dx="1226" dy="710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rtLIbUINDSShz8pWYrtB-1" value="radio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="234" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtLIbUINDSShz8pWYrtB-2" value="RF path" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtLIbUINDSShz8pWYrtB-3" value="UE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="546" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtLIbUINDSShz8pWYrtB-4" value="AI accelerator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="74" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
