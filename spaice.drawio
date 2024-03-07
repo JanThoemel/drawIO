@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T19:24:27.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="xvxCsKGzRRNJgtQuJQC9" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T19:30:18.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="t9eos_hLSFWLCgM9Vnuc" version="24.0.2" type="github">
   <diagram name="Page-1" id="akqyKi0w9UuJNH26rZH2">
-    <mxGraphModel dx="1233" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2615" dy="1262" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,8 +354,8 @@
         <mxCell id="XN0WKmRxlIbtqyMM3pOz-44" value="thermal observation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2320" y="132" width="78" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="XN0WKmRxlIbtqyMM3pOz-45" value="power data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1439" y="684" width="101" height="30" as="geometry" />
+        <mxCell id="XN0WKmRxlIbtqyMM3pOz-45" value="power data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1456" y="684" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0WKmRxlIbtqyMM3pOz-46" value="data (3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="2030" y="760" width="101" height="30" as="geometry" />
@@ -401,6 +401,9 @@
         </mxCell>
         <mxCell id="xQclkONQ4EtKPvf6HYrY-4" value="data (5)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1277" y="706" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xQclkONQ4EtKPvf6HYrY-6" value="for one&lt;br&gt;pass over Europe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="834" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
