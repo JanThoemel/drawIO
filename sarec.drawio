@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T10:49:27.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="p6LwH5f4ZGyt9ATG14MW" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T11:02:22.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="kKOeuS78j3s6I3GySvR7" version="24.2.0" type="github">
   <diagram name="Page-1" id="CVmNYWQFcq2EgmVIEUED">
     <mxGraphModel dx="1062" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uXkvCRHR_g6Lccs7rdHz-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.9;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="uXkvCRHR_g6Lccs7rdHz-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.9;rotation=-180;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="580" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uXkvCRHR_g6Lccs7rdHz-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5836492587527289;endAngle=0.9536132104611288;rotation=90;" vertex="1" parent="1">
