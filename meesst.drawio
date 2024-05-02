@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T07:55:28.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="oGpljRkd8RmRQfc3myKR" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T07:56:50.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="-94mBzEojfsk7dm_ecFS" version="24.3.1" type="github">
   <diagram name="Page-1" id="Fb-UzOqJc0-bCRPpKKv8">
-    <mxGraphModel dx="728" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,9 @@
             <mxPoint x="460" y="256.67" as="sourcePoint" />
             <mxPoint x="456" y="277.67" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5ehIhYxMIf45m_4cqmk0-19" value="magnetic field lines" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;fontColor=#8080c0;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="278.01" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
