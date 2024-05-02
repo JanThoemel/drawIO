@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T08:04:53.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="WB9873iZnTzPpaWaamgz" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T13:56:59.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ejefNqSP3RApJevOfw8W" version="24.3.1" type="github">
   <diagram name="Page-1" id="Fb-UzOqJc0-bCRPpKKv8">
-    <mxGraphModel dx="879" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
         <mxCell id="5ehIhYxMIf45m_4cqmk0-13" value="w/o magnetic field" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5ehIhYxMIf45m_4cqmk0-14" value="w magnetic field, expected: boundary layer in proximity of stagnation point is larger than w/o magnetic field due to gyro-movement of charged particles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9999;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="130" height="20" as="geometry" />
+        <mxCell id="5ehIhYxMIf45m_4cqmk0-14" value="w magnetic field, expected: boundary layer in proximity of stagnation point is larger than w/o magnetic field due to gyro-movement of charged particles - quasi-increase of stagnation point radius" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9999;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="318" y="181" width="256" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5ehIhYxMIf45m_4cqmk0-15" value="w magnetic field, observed:&lt;br&gt;boundary layer in proximity of stagnation point is smaller than without magnetic field due to gyro-movement of charged particles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF33FF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="130" height="20" as="geometry" />
