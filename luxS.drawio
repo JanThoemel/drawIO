@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T20:42:35.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="aIhNcKklsVVhGz1NFpXN" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T06:17:57.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="eD4DCKFWJngPA6cA93yE" version="24.3.1" type="github">
   <diagram name="Page-1" id="z0A3HbcAvyZbjTmtrqKG">
-    <mxGraphModel dx="2049" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,8 +260,14 @@
             <mxPoint x="850" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVVsd0qkq9aGRGCJdT9u-1" value="switch block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8080ff;" vertex="1" parent="1">
+        <mxCell id="mVVsd0qkq9aGRGCJdT9u-1" value="switch manipulator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8080ff;" parent="1" vertex="1">
           <mxGeometry x="975" y="790" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-2" value="connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8080ff;" vertex="1" parent="1">
+          <mxGeometry x="655" y="770" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-3" value="connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8080ff;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="600" y="710" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
