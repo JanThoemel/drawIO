@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T08:21:04.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="T12rMz2JNV4Y88qCutYw" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T08:56:49.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="8ZcBt4BWIuUbci8mMBzr" version="24.3.1" type="github">
   <diagram name="Page-1" id="z0A3HbcAvyZbjTmtrqKG">
     <mxGraphModel dx="1434" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,9 +59,9 @@
             <Array as="points">
               <mxPoint x="550" y="220" />
               <mxPoint x="550" y="20" />
-              <mxPoint x="80" y="20" />
-              <mxPoint x="80" y="1210" />
-              <mxPoint x="635" y="1210" />
+              <mxPoint x="60" y="20" />
+              <mxPoint x="60" y="1140" />
+              <mxPoint x="635" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -339,7 +339,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-7" value="Interface board" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.06,0,0,0,0],[0.13,0,0,0,0],[0.19,0,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.31,0,0,0,0],[0.38,0,0,0,0],[0.44,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.56,0,0,0,0],[0.63,0,0,0,0],[0.69,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.81,0,0,0,0],[0.88,0,0,0,0],[0.94,0,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-7" value="EGSE router" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.06,0,0,0,0],[0.13,0,0,0,0],[0.19,0,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.31,0,0,0,0],[0.38,0,0,0,0],[0.44,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.56,0,0,0,0],[0.63,0,0,0,0],[0.69,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.81,0,0,0,0],[0.88,0,0,0,0],[0.94,0,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
           <mxGeometry x="610" y="1290" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZ-ZKTBxz0TU3pikCNHM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=box;startFill=0;endArrow=box;endFill=0;" edge="1" parent="1" source="PZ-ZKTBxz0TU3pikCNHM-7" target="PZ-ZKTBxz0TU3pikCNHM-4">
