@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T14:07:28.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="4M20r-euYVEzsJc7OKOX" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T19:09:20.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="dSNGnjK7nAwegI6QOo4E" version="24.3.1" type="github">
   <diagram name="Page-1" id="z0A3HbcAvyZbjTmtrqKG">
     <mxGraphModel dx="1687" dy="1075" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="1280" width="10" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="PZ-ZKTBxz0TU3pikCNHM-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ff8040;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1282" width="10" height="10" as="geometry" />
         </mxCell>
@@ -382,6 +385,22 @@
               <mxPoint x="897" y="1170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=box;endFill=0;entryX=0.44;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZ-ZKTBxz0TU3pikCNHM-45" target="PZ-ZKTBxz0TU3pikCNHM-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="900" as="targetPoint" />
+            <mxPoint x="546" y="504" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="504" />
+              <mxPoint x="530" y="825" />
+              <mxPoint x="782" y="825" />
+              <mxPoint x="782" y="1179" />
+              <mxPoint x="793" y="1179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZ-ZKTBxz0TU3pikCNHM-45" value="magnetometer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff00;rotation=-90;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="529" y="494" width="38.5" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
