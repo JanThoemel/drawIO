@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
   <diagram name="Page-1" id="O4dOPRTyCMKJxWzH-CqN">
-    <mxGraphModel dx="1235" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,22 +61,22 @@
         <mxCell id="Jm31af164PiDxRmqdF33-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-21" value="T- 2 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-21" value="T- 2 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-22" value="T- 1 week" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-22" value="T- 1 week" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-23" value="Review Collocation meeting" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-23" value="Review Collocation meeting" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="345" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-26" value="T+1 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-26" value="T+1 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="465" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-27" value="T+2 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-27" value="T+2 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="585" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jm31af164PiDxRmqdF33-29" value="T+3 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jm31af164PiDxRmqdF33-29" value="T+3 weeks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ff8000, #ededed);" vertex="1" parent="1">
           <mxGeometry x="80" y="705" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
