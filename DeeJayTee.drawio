@@ -169,13 +169,13 @@
         <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-50" target="4EsNZE_uEdMCElJo3id0-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="1185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
