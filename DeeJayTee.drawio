@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="870" dy="453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,19 +114,19 @@
             <mxPoint x="314.7142857142858" y="960.0000174386162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-28" value="Pitch based on LSA PSRF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-28" value="Pitch based on LSA PSRF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="16" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-30" target="4EsNZE_uEdMCElJo3id0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-30" value="PSRF drafting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-30" value="PSRF drafting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="148" y="847" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-31" target="4EsNZE_uEdMCElJo3id0-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-31" value="review by LSA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-31" value="review by LSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="283" y="907" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-32" target="4EsNZE_uEdMCElJo3id0-38">
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="427" y="976" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-34" value="informal feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -157,7 +157,7 @@
         <mxCell id="4EsNZE_uEdMCElJo3id0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-38" target="4EsNZE_uEdMCElJo3id0-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-38" value="ESA starts Invitation to Tender with support of LSA and contractor (4 months)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-38" value="ESA starts Invitation to Tender with support of LSA and contractor (4 months)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="548" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-43" value="to committee with comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -169,16 +169,16 @@
         <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="675" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-50" target="4EsNZE_uEdMCElJo3id0-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="805" y="1185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#660000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="938" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-54" value="positive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
