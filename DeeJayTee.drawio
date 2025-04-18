@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF0080;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="427" y="976" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-34" value="informal feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -166,23 +166,81 @@
         <mxCell id="4EsNZE_uEdMCElJo3id0-47" value="negative" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="364" y="1004" width="52" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-50">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="675" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-50" target="4EsNZE_uEdMCElJo3id0-51">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-61" target="4EsNZE_uEdMCElJo3id0-51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="805" y="1185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#660000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="938" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EsNZE_uEdMCElJo3id0-54" value="positive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="548" y="1004" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-55" target="4EsNZE_uEdMCElJo3id0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-55" value="&lt;div&gt;Submission of One-pager to Luxinnovation (5th May 2025)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="63" y="1531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-56" target="4EsNZE_uEdMCElJo3id0-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-56" value="Pitch to Luxinnovation (~20 May 2025)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="1591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-57" target="4EsNZE_uEdMCElJo3id0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-57" value="approval of cofunding" style="rhombus;whiteSpace=wrap;html=1;fillColor=#33FFFF;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="361" y="1641" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-58" target="4EsNZE_uEdMCElJo3id0-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-58" value="submission of proposal to EDF (16 October 2025)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3FF66;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485" y="1718" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-60" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF33;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="768" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-61" target="4EsNZE_uEdMCElJo3id0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-61" value="ESA&lt;br&gt;evaluates proposal (1 month)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CC0066;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="819" y="1177" width="97.5" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-62" value="positive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="911" y="1191" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-64" value="rejected" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="736" y="1213.75" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-66" target="4EsNZE_uEdMCElJo3id0-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.7058859432445" y="1825.8823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-66" value="EC evaluates proposal (3 months)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#33FFFF;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="633" y="1770" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-70" value="rejected" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="1815.5" width="55" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4EsNZE_uEdMCElJo3id0-76" source="4EsNZE_uEdMCElJo3id0-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="1696.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-76" value="rejected" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="266" y="1686.5" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="4EsNZE_uEdMCElJo3id0-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-66" target="4EsNZE_uEdMCElJo3id0-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
