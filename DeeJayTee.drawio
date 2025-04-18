@@ -109,27 +109,27 @@
         <mxCell id="4EsNZE_uEdMCElJo3id0-27" value="material transport" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="722" y="612" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-28" target="4EsNZE_uEdMCElJo3id0-30">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-28" target="4EsNZE_uEdMCElJo3id0-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314.7142857142858" y="960.0000174386162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-28" value="Pitch based on LSA PSRF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-28" value="Pitch based on LSA PSRF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="16" y="787" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-30" target="4EsNZE_uEdMCElJo3id0-31">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-30" target="4EsNZE_uEdMCElJo3id0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-30" value="PSRF drafting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-30" value="PSRF drafting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="148" y="847" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-31" target="4EsNZE_uEdMCElJo3id0-32">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-31" target="4EsNZE_uEdMCElJo3id0-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-31" value="review by LSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-31" value="review by LSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="283" y="907" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-32" target="4EsNZE_uEdMCElJo3id0-38">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-32" target="4EsNZE_uEdMCElJo3id0-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="607" y="1032" />
@@ -137,7 +137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-32" target="4EsNZE_uEdMCElJo3id0-30">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-32" target="4EsNZE_uEdMCElJo3id0-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="55" y="1032" />
@@ -145,43 +145,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-32" value="decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="427" y="976" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-34" value="informal feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-34" value="informal feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="148" y="792" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-35" value="submission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-35" value="submission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="286.5" y="851" width="52" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-38" target="4EsNZE_uEdMCElJo3id0-48">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-38" target="4EsNZE_uEdMCElJo3id0-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-38" value="ESA starts Invitation to Tender with support of LSA and contractor (4 months)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-38" value="ESA starts Invitation to Tender with support of LSA and contractor (4 months)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="548" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-43" value="to committee with comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-43" value="to committee with comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="401.5" y="910" width="163" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-47" value="negative" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-47" value="negative" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="364" y="1004" width="52" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-50">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-48" target="4EsNZE_uEdMCElJo3id0-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-48" value="contractor submits proposals (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="675" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-50" target="4EsNZE_uEdMCElJo3id0-51">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="4EsNZE_uEdMCElJo3id0-50" target="4EsNZE_uEdMCElJo3id0-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-50" value="ESA evaluates proposal (1 month)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="805" y="1185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#660000;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-51" value="contract is awarded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#660000;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="938" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4EsNZE_uEdMCElJo3id0-54" value="positive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4EsNZE_uEdMCElJo3id0-54" value="positive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="548" y="1004" width="52" height="30" as="geometry" />
         </mxCell>
       </root>
