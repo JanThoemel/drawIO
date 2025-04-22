@@ -332,8 +332,41 @@
             <mxPoint x="630" y="2611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LNnZcz1PQ6CTaX76SW7G-16" value="&lt;div&gt;material&lt;/div&gt;&lt;div&gt;short distance transport&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-16" value="&lt;div align=&quot;left&quot;&gt;in-situ, rover based prospecting&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="639" y="2646" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-17" value="Prospecting" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=light-dark(#CCCCFF,#EDEDED);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-18" value="Excavation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=light-dark(#9999FF,#EDEDED);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-19" value="Beneficiation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=light-dark(#6666FF,#EDEDED);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-20" value="Extraction" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=#3333FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-21" value="Storage" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-22" value="Trade" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=#0000CC;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-23" value="Use" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=#000099;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="729" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-24" value="Disposal" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fillColor=#000066;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="828" y="2744" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF00FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217.5" y="2909" as="sourcePoint" />
+            <mxPoint x="217.5" y="2824" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNnZcz1PQ6CTaX76SW7G-26" value="&lt;div&gt;prospecting analytics&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="2859" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
