@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mr5gOzfgz1ZWzE4GSywm-1" value="engineering team" style="rounded=0;whiteSpace=wrap;html=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="536" y="687" width="270" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="sW1ltrkP0OsYJDCoJHcO-9" value="based in the Netherlands" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="338.5" y="246" width="299.5" height="185" as="geometry" />
         </mxCell>
@@ -493,9 +496,6 @@
         </mxCell>
         <mxCell id="g1346n9lsMkB5ZXNDXlx-21" value="&lt;b&gt;Senior Tec Advisor&lt;/b&gt;&lt;br&gt;Philippe Briot" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="875" y="583" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mr5gOzfgz1ZWzE4GSywm-1" value="engineering team" style="rounded=0;whiteSpace=wrap;html=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="536" y="687" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mr5gOzfgz1ZWzE4GSywm-2" value="&lt;b&gt;RF engineer&lt;/b&gt;&lt;br&gt;(to be recruited)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="544.5" y="700" width="120" height="60" as="geometry" />
