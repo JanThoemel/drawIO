@@ -1294,10 +1294,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gBmSM7_NrHTWqAggyFqf-9" value="projectiles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2780.5" y="1340" width="60" height="16" as="geometry" />
+          <mxGeometry x="2796" y="1321" width="60" height="17" as="geometry" />
         </mxCell>
         <mxCell id="gBmSM7_NrHTWqAggyFqf-11" value="laser" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2878" y="1245" width="35" height="17.5" as="geometry" />
+          <mxGeometry x="2867" y="1287.5" width="35" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="gBmSM7_NrHTWqAggyFqf-12" value="&lt;div align=&quot;left&quot;&gt;others i.e. nets&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2867" y="1321" width="34" height="16" as="geometry" />
@@ -1336,7 +1336,7 @@
           <mxGeometry x="2703" y="1296.62" width="26.75" height="11.38" as="geometry" />
         </mxCell>
         <mxCell id="gBmSM7_NrHTWqAggyFqf-8" value="RF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2821" y="1281.3799999999999" width="27.5" height="17.25" as="geometry" />
+          <mxGeometry x="2825.5" y="1287.7499999999998" width="27.5" height="17.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
