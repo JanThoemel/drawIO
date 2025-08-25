@@ -1344,7 +1344,7 @@
         <mxCell id="cKPWp-KQPNFaSPhrpDIT-2" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#e51400;strokeColor=#B20000;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="453.8" y="-212" width="22.4" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cKPWp-KQPNFaSPhrpDIT-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="cKPWp-KQPNFaSPhrpDIT-2">
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" target="cKPWp-KQPNFaSPhrpDIT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="-137" as="sourcePoint" />
             <mxPoint x="480" y="-187" as="targetPoint" />
@@ -1355,6 +1355,18 @@
         </mxCell>
         <mxCell id="cKPWp-KQPNFaSPhrpDIT-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#B20000;fillColor=#e51400;shape=mxgraph.azure.computer;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="424.89" y="-139" width="11.11" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-7" value="" style="fontColor=#ffffff;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#e51400;strokeColor=#B20000;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;" vertex="1" parent="1">
+          <mxGeometry x="539" y="-279" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-8" value="in SSO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="-274" width="47.5" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.07;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="cKPWp-KQPNFaSPhrpDIT-2" target="cKPWp-KQPNFaSPhrpDIT-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="-198" as="sourcePoint" />
+            <mxPoint x="504" y="-247" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
