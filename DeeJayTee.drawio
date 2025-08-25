@@ -1362,11 +1362,14 @@
         <mxCell id="cKPWp-KQPNFaSPhrpDIT-8" value="in SSO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="-274" width="47.5" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="cKPWp-KQPNFaSPhrpDIT-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.07;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="cKPWp-KQPNFaSPhrpDIT-2" target="cKPWp-KQPNFaSPhrpDIT-7">
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="476" y="-198" as="sourcePoint" />
-            <mxPoint x="504" y="-247" as="targetPoint" />
+            <mxPoint x="480" y="-210" as="sourcePoint" />
+            <mxPoint x="536" y="-245" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cKPWp-KQPNFaSPhrpDIT-10" value="UHF/S-Band" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="-228" width="76" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
