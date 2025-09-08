@@ -1520,6 +1520,9 @@
         <mxCell id="TnHTBS64sNJPi9-WNqPi-8" value="tile verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TnHTBS64sNJPi9-WNqPi-10" value="market segment definition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="-852" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
