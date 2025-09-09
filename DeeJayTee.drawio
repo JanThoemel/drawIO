@@ -1534,7 +1534,7 @@
             <mxPoint x="143.33333333333348" y="-1320.8333333333333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRxJbFbZgogynf4vEQUP-2" value="literature research" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DRxJbFbZgogynf4vEQUP-2" value="literature/internet research" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-9" y="-1351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRxJbFbZgogynf4vEQUP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DRxJbFbZgogynf4vEQUP-4" target="DRxJbFbZgogynf4vEQUP-8">
@@ -1546,7 +1546,7 @@
         <mxCell id="DRxJbFbZgogynf4vEQUP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DRxJbFbZgogynf4vEQUP-5" target="DRxJbFbZgogynf4vEQUP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRxJbFbZgogynf4vEQUP-5" value="though ordering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DRxJbFbZgogynf4vEQUP-5" value="thought ordering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141" y="-1435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRxJbFbZgogynf4vEQUP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DRxJbFbZgogynf4vEQUP-6" target="DRxJbFbZgogynf4vEQUP-10">
