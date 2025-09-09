@@ -1586,6 +1586,12 @@
         <mxCell id="DRxJbFbZgogynf4vEQUP-22" value="provide command cryogenic propellant transfer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="-1810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DRxJbFbZgogynf4vEQUP-23" value="cryocoupler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="-1819" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRxJbFbZgogynf4vEQUP-24" value="cryocoupler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="-1723" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
