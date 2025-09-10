@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="2301" dy="3572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="3199" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-34" value="future defence&lt;br&gt;R&amp;amp;D or VC funded" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=right;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-2016" width="1144" height="76" as="geometry" />
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-34" value="future defence&lt;br&gt;R&amp;amp;D or VC funded" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="845" y="-2018" width="1146" height="76" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-33" value="future defence&lt;br&gt;R&amp;amp;D or VC funded" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=right;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-2096" width="1144" height="76" as="geometry" />
+          <mxGeometry x="845" y="-2097" width="1146" height="76" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-31" value="&lt;div align=&quot;right&quot;&gt;future ESA development&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1715" y="-2176" width="276" height="76" as="geometry" />
@@ -1956,7 +1956,7 @@
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G66sy0Z23Lb7ZBCtD45J-4" target="G66sy0Z23Lb7ZBCtD45J-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-4" value="power transmission application definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-4" value="&lt;i&gt;power transmission application&lt;/i&gt;&lt;br&gt;definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-2249" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G66sy0Z23Lb7ZBCtD45J-8" target="G66sy0Z23Lb7ZBCtD45J-9">
@@ -1998,19 +1998,19 @@
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-11" value="&lt;div&gt;tile TRL5/CRL5 test&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1551" y="-2212" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-12" value="&lt;div&gt;power transmission product TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-12" value="&lt;div&gt;&lt;i&gt;power transmission product&lt;/i&gt;&lt;br&gt;TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1727" y="-2254" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G66sy0Z23Lb7ZBCtD45J-16" target="G66sy0Z23Lb7ZBCtD45J-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-16" value="SAR application definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-16" value="&lt;i&gt;SAR application&lt;/i&gt; definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-2170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G66sy0Z23Lb7ZBCtD45J-18" target="G66sy0Z23Lb7ZBCtD45J-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-18" value="security radar application definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-18" value="&lt;i&gt;security radar application&lt;/i&gt;&lt;br&gt;definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-2092" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G66sy0Z23Lb7ZBCtD45J-20" target="G66sy0Z23Lb7ZBCtD45J-8">
@@ -2018,16 +2018,16 @@
             <mxPoint x="998.0740740740739" y="-2079.1481481481483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-20" value="security powert transmission application definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-20" value="&lt;i&gt;security power transmission&lt;/i&gt; application&lt;br&gt;definition and analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-2011" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-22" value="&lt;div&gt;SAR product TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-22" value="&lt;div&gt;&lt;i&gt;SAR product&lt;/i&gt;&lt;br&gt;TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1727" y="-2168" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-24" value="&lt;div&gt;Security radar product TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-24" value="&lt;div&gt;&lt;i&gt;security radar product&lt;/i&gt; TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1727" y="-2092" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-25" value="&lt;div&gt;Security power transmission product TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-25" value="&lt;div&gt;&lt;i&gt;security power transmission produc&lt;/i&gt;t TRL8 development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1727" y="-2011" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
