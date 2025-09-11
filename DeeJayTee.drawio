@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="1946" dy="3933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="4234" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ly0LoOx1HS4bpeV3q0W_-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307" y="-2168" as="sourcePoint" />
+            <mxPoint x="1722" y="-2168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-34" value="future defence&lt;br&gt;R&amp;amp;D or VC funded" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="229" y="-2910" width="1146" height="76" as="geometry" />
         </mxCell>
@@ -1961,7 +1967,7 @@
         <mxCell id="OSSLlMsGWe_ggfYrtTGi-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OSSLlMsGWe_ggfYrtTGi-67" target="OSSLlMsGWe_ggfYrtTGi-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G66sy0Z23Lb7ZBCtD45J-1" value="programmatics, planning, risks, supplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G66sy0Z23Lb7ZBCtD45J-1" value="programmatics, planning, risks, make/buy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1814" y="-2249" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G66sy0Z23Lb7ZBCtD45J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G66sy0Z23Lb7ZBCtD45J-4" target="G66sy0Z23Lb7ZBCtD45J-8" edge="1">
