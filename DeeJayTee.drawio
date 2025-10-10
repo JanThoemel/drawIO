@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="1370" dy="3952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="4038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2076,25 +2076,25 @@
         <mxCell id="AzF1HBMSHODkw8aK8vbK-15" value="WBD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1936" y="-2418" width="41" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-4" value="Aetherion&lt;br&gt;(systems engineering, Ireland)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXn6W199sdfx72FLd_qM-4" value="Aetherion&lt;br&gt;(systems engineering, Ireland)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-498" y="-3049" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-4">
+        <mxCell id="oXn6W199sdfx72FLd_qM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-12">
+        <mxCell id="oXn6W199sdfx72FLd_qM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-14">
+        <mxCell id="oXn6W199sdfx72FLd_qM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oXn6W199sdfx72FLd_qM-9" target="oXn6W199sdfx72FLd_qM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-9" value="Aetherion&lt;br&gt;(coordinator, Ireland)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXn6W199sdfx72FLd_qM-9" value="Aetherion&lt;br&gt;(coordinator, Ireland)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="-3206" width="172" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-12" value="ITT&lt;br&gt;(Spain)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXn6W199sdfx72FLd_qM-12" value="TTI&lt;br&gt;(RF distribution, Spain)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-324" y="-3049" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXn6W199sdfx72FLd_qM-14" value="uni.lu&lt;br&gt;(Luxembourg)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXn6W199sdfx72FLd_qM-14" value="Uni.lu&lt;br&gt;(EM effects, Luxembourg)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-161" y="-3049" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
