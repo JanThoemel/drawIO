@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.3">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="2478" dy="5034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2301" dy="4925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1827,11 +1827,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OSSLlMsGWe_ggfYrtTGi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OSSLlMsGWe_ggfYrtTGi-25" target="OSSLlMsGWe_ggfYrtTGi-46" edge="1">
+        <mxCell id="OSSLlMsGWe_ggfYrtTGi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="OSSLlMsGWe_ggfYrtTGi-25" target="OSSLlMsGWe_ggfYrtTGi-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1566" y="-2640" />
-              <mxPoint x="1226" y="-2640" />
+              <mxPoint x="2084" y="-2640" />
+              <mxPoint x="2084" y="-2614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OSSLlMsGWe_ggfYrtTGi-25" target="HJ8tc6dlQp07J6Z5weAq-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1566" y="-2640" />
+              <mxPoint x="2245" y="-2640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1905,13 +1914,13 @@
           <mxGeometry x="1890" y="-2484" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OSSLlMsGWe_ggfYrtTGi-46" value="robotic arm or similar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1166" y="-2614" width="120" height="60" as="geometry" />
+          <mxGeometry x="2024.1399999999999" y="-2614" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OSSLlMsGWe_ggfYrtTGi-47" value="WBD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1407" y="-2576" width="41" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OSSLlMsGWe_ggfYrtTGi-49" value="WBD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1245" y="-2576" width="41" height="22" as="geometry" />
+          <mxGeometry x="2103.14" y="-2576" width="41" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OSSLlMsGWe_ggfYrtTGi-50" value="WBD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1585" y="-2576" width="41" height="22" as="geometry" />
@@ -2333,6 +2342,12 @@
             <mxPoint x="1775" y="-1471" as="sourcePoint" />
             <mxPoint x="2537" y="-1660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-62" value="control unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2185.25" y="-2614" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-65" value="WBD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2264.25" y="-2576" width="41" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
