@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.3">
   <diagram name="Page-1" id="pI-C5jLEUPl5uABciL2J">
-    <mxGraphModel dx="2837" dy="5256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2478" dy="5034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2262,8 +2262,8 @@
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=14.33;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1921.1399999999999" y="-1794.5" width="30" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="HJ8tc6dlQp07J6Z5weAq-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="1669.23" y="-1799.0000000000002" width="106.41" height="141.66" as="geometry" />
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;imageBackground=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1638.8" y="-1829.0000000000002" width="106.41" height="141.66" as="geometry" />
         </mxCell>
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2204.64" y="-1899" width="120" height="253" as="geometry" />
@@ -2298,7 +2298,7 @@
             <mxPoint x="2445.64" y="-1772.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ8tc6dlQp07J6Z5weAq-50" value="&lt;div align=&quot;center&quot;&gt;interface 3:&lt;br&gt;CC client-side 2 spacecraft&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-50" value="&lt;div align=&quot;center&quot;&gt;interface 2:&lt;br&gt;CC client-side 2 spacecraft&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="2304.64" y="-1829" width="201" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-51" value="&lt;div align=&quot;center&quot;&gt;internal interface A:&lt;br&gt;CC tanker-side 2 CC client-side&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
@@ -2307,14 +2307,17 @@
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-52" value="&lt;div align=&quot;center&quot;&gt;interface 1:&lt;br&gt;tanker robotic arm 2 CC client-side&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1714.6399999999999" y="-1845.5" width="201" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="HJ8tc6dlQp07J6Z5weAq-53" value="&lt;div align=&quot;center&quot;&gt;interface 2:&lt;br&gt;tanker robotic arm 2 CC client-side&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-53" value="&lt;div align=&quot;center&quot;&gt;interface 3:&lt;br&gt;tanker 2 CC client-side&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1728.1399999999999" y="-1625" width="201" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-54" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;" vertex="1" parent="1">
-          <mxGeometry x="1187.5" y="-1974" width="401" height="472.34" as="geometry" />
+          <mxGeometry x="1340.9999999999998" y="-1927" width="401" height="472.34" as="geometry" />
         </mxCell>
         <mxCell id="HJ8tc6dlQp07J6Z5weAq-55" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.satellite;network2IconXOffset=0.0149;network2IconYOffset=-0.00046;network2IconW=1.1553;network2IconH=0.9741;" vertex="1" parent="1">
-          <mxGeometry x="2636.64" y="-1990" width="546.75" height="461" as="geometry" />
+          <mxGeometry x="2391.9999999999995" y="-1993" width="546.75" height="461" as="geometry" />
+        </mxCell>
+        <mxCell id="HJ8tc6dlQp07J6Z5weAq-56" value="&lt;div align=&quot;center&quot;&gt;interface 2:&lt;br&gt;tanker robotic arm 2 CC client-side&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2059" y="-1587" width="201" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
