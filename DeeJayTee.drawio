@@ -2559,6 +2559,12 @@
         <mxCell id="7Y8Cnr7KXdcAFaHOhoYB-59" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=16;" value="RF connectivity" vertex="1">
           <mxGeometry height="32" width="127" x="3023" y="-3725" as="geometry" />
         </mxCell>
+        <mxCell id="7Y8Cnr7KXdcAFaHOhoYB-63" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=16;" value="data processor &amp;amp; control unit" vertex="1">
+          <mxGeometry height="53" width="145" x="2324" y="-3766" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y8Cnr7KXdcAFaHOhoYB-64" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=16;" value="data relay" vertex="1">
+          <mxGeometry height="37" width="99" x="3545" y="-3934" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
