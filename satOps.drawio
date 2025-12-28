@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
   <diagram name="Page-1" id="MDPZZO8L0WmQH-FVtSOh">
-    <mxGraphModel dx="705" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ij-PF-pBdiWVF_UxPI15-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="satellites" vertex="1">
+          <mxGeometry height="200" width="200" x="100" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ij-PF-pBdiWVF_UxPI15-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;div&gt;locations&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="480" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ij-PF-pBdiWVF_UxPI15-4" edge="1" parent="1" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;startArrow=diamondThin;startFill=1;startSize=24;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
